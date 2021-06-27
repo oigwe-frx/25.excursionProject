@@ -9,3 +9,5 @@ The web page we’ll build advertises a mobile app which helps users record and 
 ![Redline Mock-up Page!](./resources/images/excursion_redline.png)
 
 ## Completed First Draft
+
+![Screenshot of Completed First Draft!](./resources/images/excusion.png)
